@@ -1,0 +1,6 @@
+All photos: Unsplash (Unsplash License). Stock, not the clinic's own photos; colour-graded and cropped.
+hero.jpg, hero-sm.jpg, clinical.jpg  https://images.unsplash.com/photo-1552693673-1bf958298935
+mask.jpg     https://images.unsplash.com/photo-1616394584738-fc6e612e71b9
+device.jpg   https://unsplash.com/photos/skincare-device-cleanses-womans-face-qS8eFYwvBG4 (cropped to remove branding)
+hair.jpg     https://images.unsplash.com/photo-1522337360788-8b13dee7a37e
+care.jpg     https://images.unsplash.com/photo-1620916566398-39f1143ab7be
